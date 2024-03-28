@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@headlessui/react": "^1.7.18",
+    "@tanstack/react-query": "^5.28.9",
+    "@tanstack/react-query-devtools": "^5.28.10",
     "autoprefixer": "^10.4.19",
     "clsx": "^2.1.0",
     "formik": "^2.4.5",
